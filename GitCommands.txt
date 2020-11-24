@@ -1,0 +1,11 @@
+git add file/directory
+	- adds a file ready to be committed
+
+git commit -m "Comment"
+	- commits the file(s) creating a snapshot of the code, ready for pushing to repository
+
+git push
+	- pushes commits to repository
+
+git clone
+	- clones a repository into a new directory; remote-tracking branches
